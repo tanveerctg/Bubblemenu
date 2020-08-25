@@ -200,7 +200,7 @@ li.ProseMirror-selectednode:after {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   overflow: visible;
- 
+  display:none;
 }
 
 .ProseMirror-icon {
